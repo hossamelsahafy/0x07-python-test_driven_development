@@ -6,8 +6,12 @@ def matrix_divided(matrix, div):
     """
     Divide matrix by a number
     """
-    if not isinstance(matrix, list) or not all(isinstance(i, list) for i in matrix):
-        raise TypeError("matrix must be a matrix (list of lists) of integers/floats")
+    if not isinstance(matrix, list) or not \
+            all(isinstance(i, list) for i in matrix):
+        raise TypeError(
+            "matrix must be a matrix (list of lists) \
+            of integers/floats"
+        )
     for i in matrix:
         if not all(isinstance(obj, (int, float)) for obj in i):
             raise TypeError(
