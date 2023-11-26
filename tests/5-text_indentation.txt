@@ -6,39 +6,22 @@ Hello?
 Traceback (most recent call last):
 TypeError: text must be a string
 
-text_indentation("""Lorem ipsum dolor sit amet, consectetur adipiscing elit. \
-Quonam modo? Utrum igitur tibi litteram videor an totas paginas commovere? \
-Non autem hoc: igitur ne illud quidem. Fortasse id optimum, sed ubi illud: \
-Plus semper voluptatis? Teneo, inquit, finem illi videri nihil dolere. \
-Transfer idem ad modestiam vel temperantiam, quae est moderatio cupiditatum \
-rationi oboediens. Si id dicis, vicimus. Inde sermone vario sex illa a Dipylo \
-stadia confecimus. Sin aliud quid voles, postea. Quae animi affectio suum \
-cuique tribuens atque hanc, quam dico. Utinam quidem dicerent alium alio \
-beatiorem! Iam ruinas videres""")
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+text_indentation("""there was a cat in street . \
+Did you sea it? Did she say meow? \
+A wise cat once said: Meow Meow. there are many wise cats i suppose , becouse they always say: \
+Meow Meow can u give me some foodeow? actually i love cats, they are so cute."""")
+there was a cat in street.
 
-Quonam modo?
+Did you sea it?
 
-Utrum igitur tibi litteram videor an totas paginas commovere?
+Did she say meow?
 
-Non autem hoc:
+A wise cat once said:
 
-igitur ne illud quidem.
+Meow Meow.
 
-Fortasse id optimum, sed ubi illud:
+there are many wise cats i suppose , becouse they always say:
 
-Plus semper voluptatis?
+Meow Meow can u give me some foodeow?
 
-Teneo, inquit, finem illi videri nihil dolere.
-
-Transfer idem ad modestiam vel temperantiam, quae est moderatio cupiditatum rationi oboediens.
-
-Si id dicis, vicimus.
-
-Inde sermone vario sex illa a Dipylo stadia confecimus.
-
-Sin aliud quid voles, postea.
-
-Quae animi affectio suum cuique tribuens atque hanc, quam dico.
-
-Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres
+actually i love cats, they are so cute.
