@@ -5,6 +5,9 @@ Define function that print text
 
 
 def text_indentation(text):
+    """
+    This function prints the given text with indentation.
+    """
     if not isinstance(text, str):
         raise TypeError("text must be a string")
     for char in ".:?":
